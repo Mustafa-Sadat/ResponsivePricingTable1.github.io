@@ -1,0 +1,6 @@
+How TO - Responsive Pricing Table
+
+earn how to create a responsive pricing table with CSS.
+
+
+in this mini-project,we will build some reponsive pricing tables using HTML5 and CSS3
